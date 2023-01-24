@@ -1,4 +1,4 @@
-# React Admin Dashboard
+# Watch
 
-Completed React Admin Dashboard Repo
+ React app to display multiple types of watches
 
