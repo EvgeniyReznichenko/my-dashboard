@@ -1,4 +1,4 @@
-# Watch
+# Dashboard
 
- React app to display multiple types of watches
+ React app to display different widgets for personal usage
 

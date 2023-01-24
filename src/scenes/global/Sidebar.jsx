@@ -70,7 +70,7 @@ const Sidebar = () => {
                                 ml="15px"
                             >
                                 <Typography variant="h3" color={colors.grey[100]}>
-                                    WATCH
+                                    MY DASHBOARD
                                 </Typography>
                                 <IconButton onClick={() => setIsCollapsed(!isCollapsed)}>
                                     <MenuOutlinedIcon/>
