@@ -1,7 +1,7 @@
 import {Box, useTheme} from "@mui/material";
 import {tokens} from "../../theme";
 import Header from "../../components/Header";
-import StopWatch from "../../components/StopWatch";
+import Timer from "../../components/Timer";
 
 const Dashboard = () => {
     const theme = useTheme();
@@ -29,7 +29,7 @@ const Dashboard = () => {
                     alignItems="center"
                     justifyContent="center"
                 >
-                    <StopWatch/>
+                    <Timer/>
                 </Box>
             </Box>
         </Box>
